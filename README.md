@@ -21,3 +21,6 @@ Google Coding Contest has additional practice questions: http://code.google.com/
 Understand high scale architecture. Go look at how other big sites are structured: http://highscalability.com/blog/category/example         
 
 Review Amazon leadership principal to better prepare for our cultural assessment multiple choice: https://www.amazon.jobs/en/principles   
+
+# Dynamic Programming  
+* [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk).   
