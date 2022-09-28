@@ -23,4 +23,5 @@ Understand high scale architecture. Go look at how other big sites are structure
 Review Amazon leadership principal to better prepare for our cultural assessment multiple choice: https://www.amazon.jobs/en/principles   
 
 # Dynamic Programming  
-* [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk).   
+* [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)
+* [10 Common Coding Interview Problems - Solved!](https://www.youtube.com/watch?v=Peq4GCPNC5c)        
